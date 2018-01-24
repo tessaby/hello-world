@@ -1,5 +1,4 @@
 # hello-world
-saluton mondo! just playing around with GitHub here
 
 Hi,
 I'm tess,
